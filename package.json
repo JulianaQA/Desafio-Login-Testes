@@ -1,0 +1,12 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Desafio de automacao de testes",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.10"
+  }
+}
