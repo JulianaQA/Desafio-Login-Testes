@@ -26,6 +26,8 @@ Função de login com testes automatizados usando Mocha e Chai.
 git clone https://github.com/JulianaQA/Desafio-Login-Testes.git
 cd Desafio-Login-Testes
 2. Instale as dependências
+```bash
 npm install
 3. Execute os testes
+```bash
 npm test
